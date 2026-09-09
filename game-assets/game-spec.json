@@ -1,0 +1,40 @@
+{
+  "player": [
+    0,
+    -115
+  ],
+  "speed": 3,
+  "pickupRadius": 32,
+  "binRadius": 42,
+  "binY": 75,
+  "binX": [
+    -138,
+    -43,
+    44,
+    138
+  ],
+  "trashPositions": [
+    [
+      -155,
+      -65
+    ],
+    [
+      -55,
+      -20
+    ],
+    [
+      65,
+      -80
+    ],
+    [
+      155,
+      -25
+    ]
+  ],
+  "scoreTarget": 4,
+  "art": "3D rendered fixed camera (2.5D)",
+  "controls": [
+    "arrow keys",
+    "space"
+  ]
+}
